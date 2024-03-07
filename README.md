@@ -14,11 +14,23 @@ This project focuses on the classic 1878 video 'Sallie Gardner at a Gallop'. The
 - Some Octave or MATLAB familiarity
 - Basic understanding of PCA and SVD (see for example [my linear algebra course](https://www.math.columbia.edu/~martinez/teaching.html))
 
-### Installation and Setup
+### Requirements
 
-1. Clone or download the repository.
-2. Ensure Octave is installed and properly set up on your system.
-3. Place your video files in the designated folder (if needed - additional frame sets are provided for experimentation).
+- Octave [Installation guide]([https://octave.org/](https://octave.org/download))
+- JupyterLab [Installation guide]([https://jupyter.org/](https://jupyter.org/install))
+  
+### Installation and Setup
+1. **Clone or Download the Repository:**
+   - Open a terminal or command prompt.
+   - Clone the repository using `git clone [repository URL]`. Replace `[repository URL]` with the actual URL of the repository.
+
+2. **Prepare Frame Files:**
+   - Navigate to the `AlternativeFrameSets` folder in the cloned repository.
+   - Place your own frame files (in JPEG format, one for each frame of the video). The repository already includes some frame sets for experimentation.
+
+3. **Open and Run the Notebook:**
+   - Open JupyterLab by running `jupyter lab` in your terminal or command prompt.
+   - In JupyterLab, navigate to the repository directory and open `VidPCA.ipynb`.
 
 ## Contributions
 
