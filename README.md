@@ -5,7 +5,7 @@ This repository contains code for implementing Principal Component Analysis (PCA
 
 ### Background
 
-This project focuses on the classic 1878 video 'Sallie Gardner at a Gallop'. Our aim is to explore historical video data through modern compression techniques, showcasing the efficiency of PCA in reducing data size while retaining essential information.
+This project focuses on the classic 1878 video 'Sallie Gardner at a Gallop'. The idea is to showcase the efficiency of PCA in reducing data size while retaining essential information, in a visual way.
 
 ## Getting Started
 
